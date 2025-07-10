@@ -39,7 +39,7 @@ For comparison, we include the annotations from the original Toxic Comment Class
 This version of the data contains the aggregated annotations we computed of the disaggregated annotations. We only list the elements that differ from the elements in all_comments_disaggregated.
 
 #### Comment marked
-The comment with the span annotations. We did not use this version of the comment for our benchmark.
+The comment with the span annotations. We did not use this version of the comment for our benchmarks.
 
 #### Label
 Denotes whether the aggregated label is Toxic / Offensive (1) or Not toxic / Not offensive (0)
