@@ -53,5 +53,13 @@ Denotes whether the aggregated annotations contain a span labelled as vulgar (1)
 #### Target group / Target individual / Target other
 Denotes whether the aggregated annotations contain a span labelled as target_group / target_individual / target_other (1) or not (0). We did not use this label for our evaluation.
 
+#### Label fine
+The fine-grained label of the comment resulting from the labels toxic, vulgar, target_group, target_individual, target_other. We did not use this label for our evaluation.
+
+#### Tags
+The spans and the labels of the spans resulting from the aggregated spans of the disaggregated data. For spans labelled as vulgarity, the number of votes for the span to be vulgar is included.
+
+
+
 
 
