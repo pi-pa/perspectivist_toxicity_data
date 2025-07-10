@@ -14,10 +14,10 @@ The file splits_aggregated contains the splits used for the benchmarks in the pa
 ## All_comments_disaggregated 
 
 #### Index
-The index in the Toxic Comment Classification Challenge, the source of the data
+The index in the Jigsaw Toxic Comment Classification Challenge, the source of the data
 
 #### Comment
-The text from the Toxic Comment Classification Challenge which was classified
+The text from the Jigsaw Toxic Comment Classification Challenge which was classified
 
 #### Annotators not toxic
 The annotator ids of the annotators who labelled the text as not toxic / not offensive 
