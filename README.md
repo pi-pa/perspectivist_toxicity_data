@@ -11,7 +11,7 @@ The file splits_aggregated contains the splits used for the benchmarks in the pa
 # Dataset description
 
 
-## All_comments_disaggregated
+## All_comments_disaggregated 
 
 #### Index
 The index in the Toxic Comment Classification Challenge, the source of the data
@@ -20,7 +20,7 @@ The index in the Toxic Comment Classification Challenge, the source of the data
 The text from the Toxic Comment Classification Challenge which was classified
 
 #### Annotators not toxic
-The annotator ids of the annotators who labelled the text as not toxic / offensive 
+The annotator ids of the annotators who labelled the text as not toxic / not offensive 
 
 #### Annotators insult
 The annotator ids of the annotators who labelled the text to be an insult
@@ -35,14 +35,14 @@ The spans, the label of the spans and the annotators that annotated these spans
 For comparison, we include the annotations from the original Toxic Comment Classification Challenge
 
 
-## All_comments_aggregated
+## All_comments_aggregated & splits_aggregated
 This version of the data contains the aggregated annotations we computed of the disaggregated annotations. We only list the elements that differ from the elements in all_comments_disaggregated.
 
 #### Comment marked
 The comment with the span annotations. We did not use this version of the comment for our benchmark.
 
 #### Label
-Denotes whether the aggregated label is Toxic (1) or Not toxic (0)
+Denotes whether the aggregated label is Toxic / Offensive (1) or Not toxic / Not offensive (0)
 
 #### Manually cleaned
 Denotes whether the annotation in the aggregated dataset was manually cleaned (1) or not (0). It is 0 for all comments in this dataset since we did not manually clean it. 
