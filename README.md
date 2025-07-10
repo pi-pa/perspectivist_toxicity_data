@@ -6,4 +6,4 @@ You can find the disaggregated labels in all_comments_disaggregated.
 
 Further, find the aggregated labels in all_comments_aggregated. 
 
-splits_aggregated contains the splits used for the benchmarks in the paper. 
+Splits_aggregated contains the splits used for the benchmarks in the paper. 
