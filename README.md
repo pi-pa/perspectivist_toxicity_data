@@ -22,10 +22,10 @@ The text from the Toxic Comment Classification Challenge which was classified
 The annotator ids of the annotators who labelled the text as not toxic / offensive 
 
 #### Annotators insult
-The annotator ids of the annotators who labelled the text not to be an insult
+The annotator ids of the annotators who labelled the text to be an insult
 
 #### Annotators hate
-The annotator ids of the annotators who labelled the text not to be hateful
+The annotator ids of the annotators who labelled the text to be hateful
 
 #### Tags
 The spans, the label of the spans and the annotators that annotated these spans
