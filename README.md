@@ -24,7 +24,7 @@ The annotator ids of the annotators who labelled the text as not toxic / offensi
 #### Annotators insult
 The annotator ids of the annotators who labelled the text not to be an insult
 
-#### Annotators insult
+#### Annotators hate
 The annotator ids of the annotators who labelled the text not to be hateful
 
 #### Tags
